@@ -4,7 +4,7 @@ const Landing = () => {
     return(
         <div style={{textAlign: 'center'}}>
             <h1>
-                Eblast
+                eBlast
             </h1>
             Collect feedback from Users
         </div>
